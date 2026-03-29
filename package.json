@@ -1,5 +1,5 @@
 {
-  "name": "bevr",
+  "name": "elysia-monorepo",
   "version": "0.0.1",
   "description": "A monorepo template built with Bun, Elysia, Kysely, React and Better Auth",
   "author": "Rafael Wrobel",
