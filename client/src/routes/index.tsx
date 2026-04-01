@@ -27,7 +27,7 @@ function Index() {
 
   return (
     <div className="max-w-xl mx-auto flex flex-col gap-6 items-center justify-center min-h-screen">
-      <h1 className="text-5xl font-black">bevr</h1>
+      <h1 className="text-5xl font-black">elysia-monorepo</h1>
       <h2 className="text-2xl font-bold">
         Bun + Elysia + Kysely + better-auth + React
       </h2>
