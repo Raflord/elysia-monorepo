@@ -1,6 +1,6 @@
 # elysia-monorepo
 
-A full-stack TypeScript monorepo starter with shared types, using Bun, Elysia, Kysely, React and better-auth
+A full-stack TypeScript monorepo starter with shared types, using Bun, Elysia, Drizzle, React and better-auth
 
 ## Why elysia-monorepo?
 
@@ -16,7 +16,7 @@ While there are plenty of existing app building stacks out there, many of them a
   - [Elysia](https://elysiajs.com/) as the backend framework
   - [Vite](https://vitejs.dev) for frontend bundling
   - [React](https://react.dev) for the frontend UI
-  - [Kysely](https://kysely.dev/) for build queries
+  - [Drizzle](https://orm.drizzle.team) for interacting with the database
   - [better-auth](https://better-auth.com/) for the auth provider
   - [Turbo](https://turbo.build) for monorepo build orchestration and caching
 
@@ -139,7 +139,7 @@ bun run test
 - [Vite Documentation](https://vitejs.dev/guide/)
 - [React Documentation](https://react.dev/learn)
 - [Elysia Documentation](https://elysiajs.com/table-of-content.html)
-- [Kysely Documentation](https://kysely.dev/docs/intro)
+- [Drizzle Documentation](https://orm.drizzle.team/docs/overview)
 - [better-auth Documentation](https://better-auth.com/docs/introduction)
 - [Turbo Documentation](https://turbo.build/docs)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
